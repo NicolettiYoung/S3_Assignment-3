@@ -37,6 +37,7 @@
   },
   "devDependencies": {
     "file-loader": "^6.2.0",
+    "svg-loader": "0.0.2",
     "svg-react-loader": "^0.4.6"
   }
 }

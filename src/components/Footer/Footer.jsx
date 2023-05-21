@@ -1,7 +1,7 @@
-import { ReactComponent as LOGO } from "../../assests/icons/logo.svg"
-import { ReactComponent as Facebook } from "../../assests/icons/facebook.svg"
-import { ReactComponent as Instagram } from "../../assests/icons/instagram.svg"
-import { ReactComponent as Whatsapp } from "../../assests/icons/whatsapp.svg"
+import { ReactComponent as LOGO } from "../../assests/icons/Logo.svg"
+import { ReactComponent as Facebook } from "../../assests/icons/Icon-facebook.svg"
+import { ReactComponent as Instagram } from "../../assests/icons/Icon-instagram.svg"
+import { ReactComponent as Whatsapp } from "../../assests/icons/Icon-whatsapp.svg"
 
 export default function Footer() {
   return (

@@ -1,9 +1,9 @@
-import { ReactComponent as LOGO } from "../../assests/icons/logo.svg"
-import { ReactComponent as Toggle } from "../../assests/icons/toggle.svg"
-import { ReactComponent as Search } from "../../assests/icons/search.svg"
-import { ReactComponent as Cart } from "../../assests/icons/cart.svg"
-import { ReactComponent as Sun } from "../../assests/icons/sun.svg"
-import { ReactComponent as Moon } from "../../assests/icons/moon.svg"
+import { ReactComponent as LOGO } from "../../assests/icons/Logo.svg"
+import { ReactComponent as Toggle } from "../../assests/icons/Toggle.svg"
+import { ReactComponent as Search } from "../../assests/icons/Icon-search.svg"
+import { ReactComponent as Cart } from "../../assests/icons/Icon-cart.svg"
+import { ReactComponent as Sun } from "../../assests/icons/Icon-sun.svg"
+import { ReactComponent as Moon } from "../../assests/icons/Icon-moon.svg"
 
 export default function Header() {
   return (
